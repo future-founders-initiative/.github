@@ -1,0 +1,4 @@
+# Future Founders Inititave - FFI
+Die Future Founders Initiative vernetzt Deutschlands aufstrebende Gründer durch Live-Events. Als Non-Profit Organisation setzen wir uns dafür ein, unternehmerisches Denken und Bildung zu fördern.
+
+Webseite: [https://ffievents.com](https://ffievents.com)
